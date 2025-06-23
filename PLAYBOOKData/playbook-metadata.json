@@ -1,0 +1,138 @@
+{
+  "schema_version": "0.1.0",
+  "playbooks": [
+    {
+      "name": "spdx-sbom-generator",
+      "version": "0.0.1",
+      "type": "tool",
+      "author": {
+        "name": "Be-Secure",
+        "type": "Organization"
+      },
+      "date_of_creation": "2024-02-27T10:30:12",
+      "last_update_date": "2024-02-27T10:30:12",
+      "last_execution": {
+        "name": "Be-Secure",
+        "type": "Organization",
+        "status": "Success",
+        "timestamp": "2024-02-27T10:30:12",
+        "environment": "fastjson-RT-env"
+      },
+      "detailed_report_path": "STRING"
+    },
+    {
+      "name": "criticality_score",
+      "version": "0.0.1",
+      "type": "tool",
+      "author": {
+        "name": "Be-Secure",
+        "type": "Organization"
+      },
+      "date_of_creation": "2024-04-12T10:30:12",
+      "last_update_date": "2024-04-15T10:30:12",
+      "last_execution": {
+        "name": "Be-Secure",
+        "type": "Organization",
+        "status": "Success",
+        "timestamp": "2024-04-12T10:30:12",
+        "environment": "opencti-RT-env"
+      },
+      "detailed_report_path": "STRING"
+    },
+    {
+      "name": "sonarqube",
+      "version": "0.0.1",
+      "type": "tool",
+      "author": {
+        "name": "Be-Secure",
+        "type": "Organization"
+      },
+      "date_of_creation": "2024-05-16T09:50:45",
+      "last_update_date": "2024-05-16T09:50:45",
+      "last_execution": {
+        "name": "Be-Secure",
+        "type": "Organization",
+        "status": "Success",
+        "timestamp": "2024-05-16T09:50:45",
+        "environment": "fastjson-RT-env"
+      },
+      "detailed_report_path": "STRING"
+    },
+    {
+      "name": "scorecard",
+      "version": "0.0.1",
+      "type": "tool",
+      "author": {
+        "name": "Be-Secure",
+        "type": "Organization"
+      },
+      "date_of_creation": "2024-05-06T14:52:02",
+      "last_update_date": "2024-05-06T14:52:02",
+      "last_execution": {
+        "name": "Be-Secure",
+        "type": "Organization",
+        "status": "Success",
+        "timestamp": "2024-05-06T14:52:02",
+        "environment": "fastjson-RT-env"
+      },
+      "detailed_report_path": "STRING"
+    },
+    {
+      "name": "watchtower",
+      "version": "0.0.1",
+      "type": "tool",
+      "author": {
+        "name": "Be-Secure",
+        "type": "Organization"
+      },
+      "date_of_creation": "2024-05-30T14:52:02",
+      "last_update_date": "2024-05-30T14:52:02",
+      "last_execution": {
+        "name": "Be-Secure",
+        "type": "Organization",
+        "status": "Success",
+        "timestamp": "2024-05-30T14:52:02",
+        "environment": "ML-RT-env"
+      },
+      "detailed_report_path": "STRING"
+    },
+    {
+      "name": "counterfit",
+      "version": "0.0.1",
+      "type": "tool",
+      "author": {
+        "name": "Be-Secure",
+        "type": "Organization"
+      },
+      "date_of_creation": "2024-06-12T16:07:47",
+      "last_update_date": "2024-06-12T16:07:47",
+      "last_execution": {
+        "name": "Be-Secure",
+        "type": "Organization",
+        "status": "Success",
+        "timestamp": "2024-06-12T16:07:47",
+        "environment": "ML-RT-env"
+      },
+      "detailed_report_path": "STRING"
+    },
+    {
+      "name": "cyclonedx-sbom-generator",
+      "version": "0.0.1",
+      "type": "tool",
+      "author": {
+        "name": "Be-Secure",
+        "type": "Organization"
+      },
+      "date_of_creation": "2025-01-17T10:00:00",
+      "last_update_date": "2025-01-17T10:00:00",
+      "last_execution": {
+        "name": "",
+        "type": "",
+        "status": "",
+        "timestamp": "",
+        "environment": ""
+      },
+      "detailed_report_path": "STRING"
+    }
+  ]
+}
